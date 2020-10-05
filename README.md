@@ -10,7 +10,7 @@ To do this include the github repos url ex https://github.com/FFlop/arduinolcd i
 
 ### Step 2 
 
-In the bash script for the docker build command specify the name of the image so when it gets built it gets tagged as that image.
+In the bash script for the docker build command specify the name of the image so when it gets built it gets tagged as that image. eg docker build -t yourimagename
 
 ### Step 3
 
