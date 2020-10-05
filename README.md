@@ -5,7 +5,8 @@ This is a bash script i made so it automates the process of pulling new changes 
 ### How to run it:
 
 ### Step 1 Pull the specificed github repo 
-To do this include the github repos url ex https://github.com/FFlop/arduinolcd
+To do this include the github repos url ex https://github.com/FFlop/arduinolcd in the bash script where it shows git pull.
+
 
 ### Step 2 
 
