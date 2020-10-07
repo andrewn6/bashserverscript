@@ -1,1 +1,1 @@
-docker create -t --name utilitybot utilitybot . 
+cd utilitybot && docker create -t --name utilitybot utilitybot . 
