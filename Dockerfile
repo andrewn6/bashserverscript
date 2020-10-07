@@ -4,6 +4,6 @@ ADD ./build.sh
 
 COPY ./run.sh
 
-RUN ./builsg.sh
+RUN ./build.sh
 
 RUN ./run.sh
